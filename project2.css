@@ -1,0 +1,26 @@
+body
+{
+    background-image: url(./Book1.jpg);
+    background-repeat: no-repeat;
+    height: 200ph;
+    width: 700pv;
+    background-size: 2000px;
+}
+.logo
+{
+    color: brown;
+    text-align: center;
+}
+
+ul
+{
+display: flex;
+justify-content:space-around;
+justify-items:end;
+}
+#books
+{
+    color: white;
+    text-align: center;
+
+}
